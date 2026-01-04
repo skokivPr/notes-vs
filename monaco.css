@@ -24,9 +24,7 @@
     --toast-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
     --backdrop-rgb: 0, 0, 0;
     --orange-rgb: 255, 115, 0;
-
     --button-hover-box-shadow: 0 5px 5px 0 rgba(0, 0, 0, 0.5);
-
     --default-rgb: 255, 255, 255;
     --card-file-name-color: 255, 217, 0;
 }
@@ -1350,4 +1348,5 @@ body {
 
 .monaco-editor .zone-widget .zone-widget-container.reference-zone-widget {
     border-color: var(--highlight-color) !important;
+
 }
